@@ -1,11 +1,11 @@
-/*  Program treba uneseni skalara pomnozit s 2D matricom.  */
+/*  Program treba uneseni skalar pomnozit s 2D matricom.  */
 
 #include <stdio.h>
 
 int main()
 {
     int A[10][10],i,j,r,s;
-    int row, col, broj;
+    int broj;
 
     printf("Unesi broj redaka: ");
         scanf("%d", &r);
